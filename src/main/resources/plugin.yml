@@ -1,0 +1,8 @@
+name: Positions
+version: ${project.version}
+main: de.driver1848.pos.Main
+api-version: 1.16
+authors: [ driver1848 ]
+description: /pos Plugin
+commands:
+  pos:
